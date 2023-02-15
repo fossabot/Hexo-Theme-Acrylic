@@ -6,6 +6,7 @@
 # hexo-theme-Acrylic
 
 ![封面图](https://photoimage.2lc.top/LightPicture/2023/02/958c511fe4757474.webp)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frootlexblog%2FHexo-Theme-Acrylic.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frootlexblog%2FHexo-Theme-Acrylic?ref=badge_shield)
 
 主题预览:  🤟[Heo](https://blog.zhheo.com/) ||  👍 [满心](https://blog.lovelu.top/)  ||  🤞 [Jayhrn](https://blog.jayhrn.com/)
 
@@ -62,3 +63,7 @@ cp -rf ./themes/Acrylic/_config.yml ./_config.Acrylic.yml
 ```
 - windows
 复制```/themes/Acrylic/_config.yml```此文件到hexo根目录，并重命名为```_config.Acrylic.yml```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frootlexblog%2FHexo-Theme-Acrylic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frootlexblog%2FHexo-Theme-Acrylic?ref=badge_large)
